@@ -1,7 +1,5 @@
 # Autoscroller
 
-A short one-line description of what Autoscroller does.
-
 ## Motivation
 I wanted to read articles and long documents hands-free, so I could use my hands to write or knit while I read.
 
