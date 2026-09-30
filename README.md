@@ -1,4 +1,5 @@
 # Autoscroller
+A simple tool that scrolls your screen for you, so your hands are free to do something else.
 
 ## Motivation
 I wanted to read articles and long documents hands-free, so I could use my hands to write or knit while I read.
